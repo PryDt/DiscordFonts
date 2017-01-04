@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Fredoka+One|Abril+Fatface|Muli|Raleway|Ubuntu|Ubuntu+Mono");
+
+.channel-members h2,
+.guild-channels span{
+	font-family: "Fredoka One" !important;
+}
+
+.username-wrapper .user-name,
+.username, .nickname,
+.member-username-inner,
+.embed-author-name,
+.guild-header span {
+	font-family: "Muli" !important;
+}
+
+.member-role .name{
+	font-family: "Ubuntu" !important;
+}
+
+.embed-field,
+.message-text, 
+.member-activity,
+.channel .channel-name{
+	font-family: "Raleway" !important;
+}
+
+code {
+    font-family: "Ubuntu Mono" !important;
+}
+
+.timestamp, .tooltip {
+	font-family: "Abril Fatface";
+}
