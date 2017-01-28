@@ -7,7 +7,7 @@
 
 .channel-members h2,
 .guild-channels span{
-	font-family: "Fredoka One" !important;
+    font-family: "Fredoka One" !important;
 }
 
 .username-wrapper .user-name,
@@ -15,18 +15,18 @@
 .member-username-inner,
 .embed-author-name,
 .guild-header span {
-	font-family: "Muli" !important;
+    font-family: "Muli" !important;
 }
 
 .member-role .name{
-	font-family: "Ubuntu" !important;
+    font-family: "Ubuntu" !important;
 }
 
 .embed-field,
 .message-text, 
 .member-activity,
 .channel .channel-name{
-	font-family: "Raleway" !important;
+    font-family: "Raleway" !important;
 }
 
 code {
@@ -34,5 +34,5 @@ code {
 }
 
 .timestamp, .tooltip {
-	font-family: "Abril Fatface";
+    font-family: "Abril Fatface";
 }
