@@ -1,4 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=Fredoka+One|Abril+Fatface|Muli|Raleway|Ubuntu|Ubuntu+Mono");
+@import url("https://fonts.googleapis.com/css?family=Fredoka+One|Abril+Fatface|Muli|Raleway|Ubuntu");
+
+@font-face {
+    font-family: firacode;
+    src: url("https://rawgit.com/bollwyvl/firacode-webfont/master/FiraCode-Regular.ttf");
+}
 
 .channel-members h2,
 .guild-channels span{
@@ -25,7 +30,7 @@
 }
 
 code {
-    font-family: "Ubuntu Mono" !important;
+    font-family: "firacode" !important;
 }
 
 .timestamp, .tooltip {
